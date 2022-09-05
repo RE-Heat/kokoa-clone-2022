@@ -19,6 +19,10 @@
   color: rgb(0, 0, 0, 0.5);
 }
 
+.open-chat {
+  height: 100vh;
+}
+
 .open-chat__header {
   display: flex;
   justify-content: space-between;
